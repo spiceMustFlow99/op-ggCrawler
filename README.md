@@ -1,9 +1,9 @@
-# OP.GG Crawler
+# OP.GG Scraper
 
-Simple Python crawler that fetches winrate stats from OP.GG.
+Simple Python scraper that fetches winrate stats from OP.GG.
 
 ## Install
 pip install -r requirements.txt
 
 ## Run
-python crawler.py
+python op-ggScraper.py
